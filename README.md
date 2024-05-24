@@ -1,24 +1,12 @@
-# README
+# rails-simple-watchlist
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails App that allows the user to create individual movie watchlists.
 
-Things you may want to cover:
+Ruby 3.1.2p20
+Ruby on Rails 7.1.3.2
+Gems: autoprefixer-rails, bootstrap, font-awesome-sass, sassc-rails, simple_form
+Database creation: postgresql
 
-* Ruby version
 
-* System dependencies
+  $ git remote add origin git@github.com:JSerriere/rails-simple-watchlist.git
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
