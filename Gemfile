@@ -78,5 +78,6 @@ gem "sassc-rails"
 
   # For API use:
 gem "dotenv-rails"
+gem "rest-client"
 
 
