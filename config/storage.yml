@@ -2,9 +2,12 @@ test:
   service: Disk
   root: <%= Rails.root.join("tmp/storage") %>
 
-local:
-  service: Disk
-  root: <%= Rails.root.join("storage") %>
+# local:
+#   service: Disk
+#   root: <%= Rails.root.join("storage") %>
+
+cloudinary:
+  service: Cloudinary
 
 cloudinary:
   service: Cloudinary
