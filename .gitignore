@@ -37,3 +37,8 @@
 # TMDB API_KEY
 .tmdb_api_key.rb
 /.tmdb_api_key.rb
+
+# Cloudinary API_Key
+cloudinary.yml
+/cloudinary.yml
+
