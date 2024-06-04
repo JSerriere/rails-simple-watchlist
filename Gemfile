@@ -80,4 +80,6 @@ gem "sassc-rails"
 gem "dotenv-rails"
 gem "rest-client"
 
+  # For Cloudinary
+gem "cloudinary"
 
